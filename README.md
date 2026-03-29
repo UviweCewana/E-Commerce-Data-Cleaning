@@ -15,7 +15,7 @@
 
 <img width="3300" height="1744" alt="image" src="https://github.com/user-attachments/assets/48a058ce-c2d0-4be3-a827-9150888cb9f6" />
 
-Step 5: Full Query
+## Step 5: Full Query
 
 <img width="3372" height="4348" alt="image" src="https://github.com/user-attachments/assets/404ed552-a627-4317-abd5-5141842e8e44" />
 
