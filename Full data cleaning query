@@ -3,9 +3,9 @@
 SELECT
   -- Original IDs and Metadata
   ID,
-  'Customer_Name',
+  Customer_Name,
   Order_ID,
-  Total,
+  IFNULL(Total, 0) AS Total,  -- Fixed: Null values in Total now equal zero
   Status,
   Payment_Method,
 
